@@ -1,4 +1,5 @@
 🌐 𝐋𝐨𝐨𝐩-𝐚𝐧𝐝-𝐋𝐞𝐚𝐫𝐧 – Educational E-Learning Website
+
 Welcome to 𝐋𝐨𝐨𝐩-𝐚𝐧𝐝-𝐋𝐞𝐚𝐫𝐧 – a modern, responsive, and user-friendly educational platform built using HTML5, CSS3, and JavaScript. This project provides a seamless learning experience for students eager to explore and enroll in diverse online courses.
 
 🚀 Features
@@ -70,4 +71,4 @@ Feel free to fork the repository, make changes, and submit a pull request.
 📩 Contact
 Made with ❤️ by Nitish Kumar
 📧 Email: nitishbhk8@gmail.com
-🔗 LinkedIn: Nitish Kumar on LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/%F0%9D%97%A1%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%B5-%F0%9D%97%9E%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF-ab306127b/
